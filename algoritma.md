@@ -21,5 +21,5 @@ NB: Tulisan dalam bentuk dalam kurung berkutip (“ “ ) adalah tulisan yang te
 17. Setelah status pemenang dalam satu pertandingan sudah ditentukan maka Chips Player akan bertambah atau berkurang sesuai dengan Bid/taruhan yang sudah disesuaikan di awal permainan. Apabila misalnya bid awal adalah 50 maka kita akan bertambah/berkurang 50 chips dari chips awal yang kita miliki.
 18. Sistem kemudian akan kembali ke menu awal untuk memperlihatkan sisa chips yang dimiliki dan menentukan bid untuk pertandingan selanjutnya.
 19. Apabila sisa chips mencapai 0 maka sistem akan selesai dengan dimunculkan tulisan bahwa anda kalah dan lemah dalam permainan ini (“Your Chips = 0”)(“ You have run out of chips to bet. You are such a noob at BlackJack. Please Exit”)
-20. Apabila sisa chips mencapai atau lebih dari 500 maka sistem akan selesai dengan dimunculkan tulisan bahwa dealer telah kehabisan uang dan diminta untuk datang kembali nanti (“Your Chips = 500”) (“The dealer has lose all his money, come back later...”)
+20. Apabila sisa chips mencapai atau lebih dari 500 maka sistem akan selesai dengan dimunculkan tulisan bahwa dealer telah kehabisan uang dan diminta untuk datang kembali nanti (“Your Chips = 500”) (“The dealer has lost all his money, come back later...”)
 21. End
