@@ -1,5 +1,7 @@
-Algoritma Project UAS BlackJack :
+# Algoritma Project UAS BlackJack
+
 NB: Tulisan dalam bentuk dalam kurung berkutip (“ “ ) adalah tulisan yang terlihat didalam program. Setiap Dalam Kurung adalah tulisan program dalam barisan tulisan yang berbeda
+
 1. Start
 2. Program dimulai dengan tulisan penyambutan (“Welcome to Blackjack Game”)
 3. Terdapat Pilihan Menu sebelum memasuki permainan Blacjack yaitu 1. Langsung Memulai permainan, 2. Tutorial mengenai cara memainkan permainan, dan 3. Meninggalkan permainan/program
