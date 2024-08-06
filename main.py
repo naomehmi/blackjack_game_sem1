@@ -386,6 +386,7 @@ def tutor():
         else:
             print('Wrong code')
             print()
+# main program
 pil = 0
 while pil != '3':
     print("♥ ♦ WELCOME TO BLACKJACK GAME ♠ ♣")
